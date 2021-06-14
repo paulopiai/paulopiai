@@ -2,6 +2,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
 ## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
 
 - 📚 Vivendo em <em>learning mode</em>.
@@ -9,6 +10,9 @@
 - ⚡ Hobbies: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
 
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/12150923777)
 
 
 
