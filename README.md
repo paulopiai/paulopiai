@@ -2,7 +2,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![WhatsApp][whatsapp-shield]][whatsapp-url]
-[![Gmail][gmail-shield]][(mailto:unieppiai@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)]
+[![Gmail][gmail-shield]][<a href="mailto:name@rapidtables.com">Send mail</a>]
 
 
 ## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
