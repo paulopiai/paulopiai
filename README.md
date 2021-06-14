@@ -1,4 +1,4 @@
-## Olá! Meu nome é Paulo Henrique Piai e seja bem vindo ao meu repositório de projetos!
+## Olá! Meu nome é Paulo Henrique Piai e seja bem vindo! - 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -15,6 +15,9 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/12150923777)
 
 
+You can just put this line of code in your README file:
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 
 
