@@ -1,6 +1,7 @@
-## Olá! Meu nome é Paulo Henrique Piai e seja bem vindo ! - 👋
+## Olá! Seja bem vindo ao meu repositório de projetos! - 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![WhatsApp][whatsapp-shield]][whatsapp-url]
 
 
 ## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
@@ -19,5 +20,11 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/paulopiai/
+
+[whatsapp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+[whatsapp-url]: https://api.whatsapp.com/send?phone=5511973763378
+
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
