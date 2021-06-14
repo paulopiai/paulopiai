@@ -1,4 +1,4 @@
-## Olá! Meu nome é Paulo Henrique Piai e seja bem vindo! - 👋
+## Olá! Meu nome é Paulo Henrique Piai e seja bem vindo ! - 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/12150923777)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
 
 
 You can just put this line of code in your README file:
