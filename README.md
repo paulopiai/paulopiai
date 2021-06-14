@@ -1,4 +1,4 @@
-## Olá! Meu nome é Paulo Henrique Piai e seja bem vindo ao meu repositório de projetos! - 👋
+## Olá! Meu nome é Paulo Henrique Piai e seja bem vindo ao meu repositório de projetos!
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
