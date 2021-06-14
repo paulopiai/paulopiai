@@ -1,13 +1,12 @@
-## Olá, Eu sou Paulo Henrique Piai - 👋
+## Olá! Meu nome é Paulo Henrique Piai e seja bem vindo ao meu repositório de projetos! - 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
 
-- 🔬 I'm currently working on research to evaluate the influence of molecules called glycosaminoglycans on T cell activation and exhaustion!
 - 📚 Vivendo em <em>learning mode</em>.
-- 🥅 Objetivos 2021: Mais contribuições em projetos de Ciência e Analise de Dados
-- ⚡ Hobbies: I love to read non-fiction books, play guitar and watch documentaries about any kind of science
+- 🥅 Objetivos 2021: Maiores contribuições em projetos de Ciência e Analise de Dados.
+- ⚡ Hobbies: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
 
 
 
