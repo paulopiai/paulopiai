@@ -29,4 +29,4 @@
 [whatsapp-url]: https://api.whatsapp.com/send?phone=5511973763378
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:unieppiai@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[gmail-url]: (mailto:unieppiai@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
