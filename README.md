@@ -17,7 +17,7 @@
 
 You can just put this line of code in your README file:
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/4Hy4j6gjNSCI9ky5y4atKY?si=aB4TJStvThOpftcJIhmlIA&utm_source=native-share-menu&dl_branch=1)
 
 
 
