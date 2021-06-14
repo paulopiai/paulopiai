@@ -27,9 +27,3 @@
 
 [whatsapp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [whatsapp-url]: https://api.whatsapp.com/send?phone=5511973763378
-
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: (mailto:unieppiai@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-[gmail-shield] <a href="mailto:name@rapidtables.com">Send mail</a>
-
-<a href="mailto:name@rapidtables.com">Send mail</a>
