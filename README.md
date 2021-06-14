@@ -30,6 +30,6 @@
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: (mailto:unieppiai@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-[gmail-shield]: (mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+[gmail-shield] <a href="mailto:name@rapidtables.com">Send mail</a>
 
 <a href="mailto:name@rapidtables.com">Send mail</a>
