@@ -2,7 +2,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![WhatsApp][whatsapp-shield]][whatsapp-url]
-<a href="mailto:unieppiai@gmail.com?subject=Vindo%20do%20Github"><[gmail-shield]/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:unieppiai@gmail.com?subject=Vindo%20do%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" //></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
