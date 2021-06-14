@@ -22,7 +22,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/paulopiai/
 
 [whatsapp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
@@ -30,3 +30,4 @@
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: (mailto:unieppiai@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
