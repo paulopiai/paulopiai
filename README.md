@@ -18,6 +18,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edugvs)](https://github.com/paulopiai/github-readme-stats)
 
 
 
