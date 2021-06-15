@@ -9,7 +9,6 @@
 - 📚 Vivendo em <em>learning mode</em>.
 - 🥅 Objetivos 2021: Continuar os estudos para maiores contribuições em projetos de Ciência e Analise de Dados.
 - ⚡ Hobbies: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
-<br>
 
 
 ## Linguagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)<br>
