@@ -16,12 +16,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopiai)](https://github.com/paulopiai/github-readme-stats)
-
-</details>
 
 ## Languagens e Ferramentas:
 <img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,7 +33,12 @@
 <img align="left" alt="SQL" width="50px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
 <img align="left" alt="Microsoft Azure Machine Learning" width="50px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
 
-<img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopiai)](https://github.com/paulopiai/github-readme-stats)
+
+</details>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
