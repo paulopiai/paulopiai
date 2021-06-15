@@ -33,7 +33,7 @@
 <br><br><br>
 
 <img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
-<img align="left" alt="Seaborn" width="26px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
+<img align="left" alt="Seaborn" width="45px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
 <img align="left" alt="Scikit-Learn" width="26px" src="https://i.postimg.cc/QNbdSy1j/SCIKITLEARN-LOGO.png" />
 <img align="left" alt="Apache Spark" width="36px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
