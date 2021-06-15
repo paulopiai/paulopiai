@@ -32,13 +32,16 @@
 <img align="left" alt="Apache Spark" width="70px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
 <img align="left" alt="SQL" width="50px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
 <img align="left" alt="Microsoft Azure Machine Learning" width="50px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
+<br><br>
 
+<!-- Github status -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopiai)](https://github.com/paulopiai/github-readme-stats)
 
 </details>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
