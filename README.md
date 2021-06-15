@@ -38,6 +38,9 @@
 <img align="left" alt="pgwhite" width="0.1px" src="https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2-768x450.jpg"/>
 <img align="left" alt="SQL" width="80px" src="http://rberaldo.com.br/wp-content/uploads/2011/02/sql-icon.jpg"/>
 <img align="left" alt="office" width="100px" src="http://s2.glbimg.com/UO9Dh51JSdXM9YgQwOulYAcK6Sw=/0x0:694x391/695x392/s.glbimg.com/po/tt2/f/original/2014/10/29/office1.jpg"/>
+<img align="left" alt="azure" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpOMrHMWZ4KypGUXyPzB5thUQmBrF_Nf6rlg_Xa9cKFSwPT2PZkXW3kMbtEwuhPPr7i8&usqp=CAU"/>
+
+
 <br><br>
 
 
