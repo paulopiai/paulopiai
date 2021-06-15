@@ -41,11 +41,14 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
 
 
-## Github Status:<br>
+## Estatísticas Github:<br>
 <!-- Github status -->
 <details>
+  
   <summary>:zap: GitHub Stats</summary>
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopiai)](https://github.com/paulopiai/github-readme-stats)
+  
 </details>
 
 
