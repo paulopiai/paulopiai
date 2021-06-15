@@ -30,7 +30,7 @@
 <img 	align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img 	align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img 	align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-<br><br><br>
+<br><br><br><br>
 
 <img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
 <img align="left" alt="Seaborn" width="60px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
