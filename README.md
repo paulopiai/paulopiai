@@ -32,7 +32,7 @@
 <img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <br><br>
 
-<img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
+
 <img align="left" alt="Seaborn" width="60px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
 <img align="left" alt="Scikit-Learn" width="70px" src="https://i.postimg.cc/QNbdSy1j/SCIKITLEARN-LOGO.png" />
 <img align="left" alt="Apache Spark" width="70px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
