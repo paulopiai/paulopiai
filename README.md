@@ -33,6 +33,8 @@
 <img align="left" alt="SQL" width="50px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
 <img align="left" alt="Microsoft Azure Machine Learning" width="50px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
 <br><br>
+<br><br>
+<br><br>
 
 <!-- Github status -->
 <details>
