@@ -25,7 +25,6 @@
 <img align="left" alt="Scikit-Learn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Numpy" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr0kYCmqg-rel951vTDzxFO1AGNqWuRdivay0YTm24puJHicWgiLs1s0jQOKjnRRGsXw&usqp=CAU" />
 <img align="left" alt="Seaborn" width="60px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
-<img vertical-align="middle" alt="Plotly" width="130px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />
 <img align="left" alt="Plotly" width="130px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />
 <br><br><br>
 
