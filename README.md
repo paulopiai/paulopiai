@@ -21,7 +21,7 @@
 
 <img align="left" alt="Python" width="85px" src="https://apexensino.com.br/wp-content/uploads/2019/01/python.png"/>
 <img align="left" alt="Pandas" width="80px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
-<img align="left" alt="Matplotlib" width="100px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
+<img align="left" alt="Matplotlib" width="125px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
 <img align="left" alt="Scikit-Learn" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Numpy" width="175px" src="https://miro.medium.com/max/765/0*p0FtnloWd4ogMvTQ.png" />
 <img align="left" alt="Seaborn" width="75px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
