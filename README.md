@@ -28,6 +28,8 @@
 <img align="left" alt="Plotly" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />
 <br>
 <br>
+<br>
+<br>
 
 <img align="left" alt="R" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>
 
