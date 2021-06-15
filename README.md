@@ -34,7 +34,9 @@
 <img align="left" alt="R" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>
 <img align="left" alt="ggplot2" width="60px" src="https://beatrizmilz.github.io/NerdzaoWeek/img/rlogos/hex-ggplot2.png"/>
 <img align="left" alt="dplyr" width="60px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png?w=578"/>
+<img align="left" alt="lubridate" width="60px" src="https://cran.r-project.org/web/packages/lubridate/readme/man/figures/logo.png"/>
 <img align="left" alt="tidyr" width="60px" src="https://www.dadosaleatorios.com.br/post/introducao-ao-tidyr/featured_hue6901f54027701dd92eb7bcc36d0c7d0_34350_720x0_resize_lanczos_2.png"/>
+
 
 <!-- Github status 
 <img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
