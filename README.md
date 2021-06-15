@@ -29,7 +29,7 @@
 <br><br><br>
 
 <!-- R -->
-
+<img align="left" alt="R" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>
 <img align="left" alt="ggplot2" width="60px" src="https://beatrizmilz.github.io/NerdzaoWeek/img/rlogos/hex-ggplot2.png"/>
 <img align="left" alt="dplyr" width="60px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png?w=578"/>
 <img align="left" alt="lubridate" width="60px" src="https://cran.r-project.org/web/packages/lubridate/readme/man/figures/logo.png"/>
@@ -37,27 +37,8 @@
 <img align="left" alt="readr" width="60px" src="https://rstudio-education.github.io/datascience-box/course-materials/slides/u2-d12-data-import/img/readr.png"/>
 <img align="left" alt="tidyverse" width="60px" src="https://www.tidyverse.org/images/hex-tidyverse.png"/>
 
-<img align="left" alt="R" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>
+<br><br><br><br><br><br>
 
-<!-- Github status 
-<img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<br><br>
-
-
-<img align="left" alt="Apache Spark" width="70px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
-<img align="left" alt="SQL" width="50px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
-<img align="left" alt="Microsoft Azure Machine Learning" width="50px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
--->
-
-
-<br><br>
-<br><br>
-<br><br>
 
 <!-- Github status -->
 <details>
@@ -75,3 +56,12 @@
 
 [whatsapp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [whatsapp-url]: https://api.whatsapp.com/send?phone=5511973763378
+
+
+
+
+<!-- Rascunho
+<img align="left" alt="Apache Spark" width="70px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
+<img align="left" alt="SQL" width="50px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
+<img align="left" alt="Microsoft Azure Machine Learning" width="50px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
+-->
