@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo ao meu repositório de projetos! 👋
+## Olá! Seja bem-vindo ao meu repositório de projetos! 👋
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![WhatsApp][whatsapp-shield]][whatsapp-url]
 <a href="mailto:unieppiai@gmail.com?subject=Vindo%20do%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
