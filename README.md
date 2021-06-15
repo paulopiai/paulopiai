@@ -24,15 +24,15 @@
 </details>
 
 ## Languagens e Ferramentas:
-<img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <br><br>
 
-<img alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
+<img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
 <img align="left" alt="Seaborn" width="60px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
 <img align="left" alt="Scikit-Learn" width="70px" src="https://i.postimg.cc/QNbdSy1j/SCIKITLEARN-LOGO.png" />
 <img align="left" alt="Apache Spark" width="70px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
