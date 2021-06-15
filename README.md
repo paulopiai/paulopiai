@@ -1,6 +1,7 @@
-## Olá! Seja bem-vindo ao meu repositório de projetos! 👋
+## Olá! Seja bem-vindo(a) ao meu repositório de projetos! 👋
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![WhatsApp][whatsapp-shield]][whatsapp-url]
+[![Website](https://img.shields.io/website?label=edugvs.github.io/&style=for-the-badge&url=https://edugvs.github.io/)](https://edugvs.github.io/)
 <a href="mailto:unieppiai@gmail.com?subject=Vindo%20do%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br>
 
