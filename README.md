@@ -34,7 +34,7 @@
 
 <img align="left" alt="R" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>
 <img align="left" alt="ggplot2" width="60px" src="https://beatrizmilz.github.io/NerdzaoWeek/img/rlogos/hex-ggplot2.png"/>
-
+<img align="left" alt="dplyr" width="60px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png?w=578"/>
 
 
 <!-- Github status 
