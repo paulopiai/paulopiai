@@ -8,7 +8,7 @@
 ## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
 
 - 📚 Vivendo em <em>learning mode</em>.
-- 🥅 Objetivos 2021: Maiores contribuições em projetos de Ciência e Analise de Dados.
+- 🥅 Objetivos 2021: Continuar os estudos para maiores contribuições em projetos de Ciência e Analise de Dados.
 - ⚡ Hobbies: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
 
 
