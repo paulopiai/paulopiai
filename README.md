@@ -19,13 +19,13 @@
 
 ## Languagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)<br>
 
-<img align="left" alt="Python" width="75px" src="https://apexensino.com.br/wp-content/uploads/2019/01/python.png"/>
-<img align="left" alt="Pandas" width="70px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
-<img align="left" alt="Matplotlib" width="125px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
-<img align="left" alt="Scikit-Learn" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Numpy" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr0kYCmqg-rel951vTDzxFO1AGNqWuRdivay0YTm24puJHicWgiLs1s0jQOKjnRRGsXw&usqp=CAU" />
-<img align="left" alt="Seaborn" width="65px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
-<img align="left" alt="Plotly" width="185px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />
+<img align="left" alt="Python" width="50px" src="https://apexensino.com.br/wp-content/uploads/2019/01/python.png"/>
+<img align="left" alt="Pandas" width="50px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
+<img align="left" alt="Matplotlib" width="100px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
+<img align="left" alt="Scikit-Learn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Numpy" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr0kYCmqg-rel951vTDzxFO1AGNqWuRdivay0YTm24puJHicWgiLs1s0jQOKjnRRGsXw&usqp=CAU" />
+<img align="left" alt="Seaborn" width="40px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
+<img align="left" alt="Plotly" width="130px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />
 <br>
 <br>
 <br>
