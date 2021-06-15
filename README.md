@@ -29,7 +29,7 @@
 <img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
 <img align="left" alt="Matplotlib" width="150px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
 <img align="left" alt="Scikit-Learn" width="70px" src="https://i.postimg.cc/QNbdSy1j/SCIKITLEARN-LOGO.png" />
-<img align="left" alt="Numpy" width="70px" src="https://miro.medium.com/max/765/0*p0FtnloWd4ogMvTQ.png" />
+<img align="left" alt="Numpy" width="150px" src="https://miro.medium.com/max/765/0*p0FtnloWd4ogMvTQ.png" />
 
 <img align="left" alt="Seaborn" width="60px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
 <img align="left" alt="Apache Spark" width="70px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
