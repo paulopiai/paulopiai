@@ -35,12 +35,11 @@
 
 <!-- Outros -->
 <img align="left" alt="SQL" width="150px" src="http://rberaldo.com.br/wp-content/uploads/2011/02/sql-icon.jpg"/>
-<br>
+<br><br>
 
 
 ## Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
-<br>
 
 
 ## Github Status:<br>
