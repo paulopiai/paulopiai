@@ -35,8 +35,8 @@
 <img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
 <img align="left" alt="Seaborn" width="60px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
 <img align="left" alt="Scikit-Learn" width="60px" src="https://i.postimg.cc/QNbdSy1j/SCIKITLEARN-LOGO.png" />
-<img align="left" alt="Apache Spark" width="36px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
-<img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
+<img align="left" alt="Apache Spark" width="60px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
+<img align="left" alt="SQL" width="60px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
 <img align="left" alt="Microsoft Power BI" width="26px" src="https://ellipsesolutions.com/wp-content/uploads/2017/01/PowerBI-Logo.png" />
 <img align="left" alt="Microsoft Azure Machine Learning" width="30px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
 
