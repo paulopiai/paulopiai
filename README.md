@@ -34,21 +34,9 @@
 <img 	align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img 	align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<img 	/>
+<img 	align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img 	align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-
-
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-<img align="left" alt="Pandas" width="26px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
-<img align="left" alt="Seaborn" width="26px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
-<img align="left" alt="Scikit-Learn" width="26px" src="https://i.postimg.cc/QNbdSy1j/SCIKITLEARN-LOGO.png" />
-<img align="left" alt="Apache Spark" width="36px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
-<img align="left" alt="R Language" width="26px" src="https://i.postimg.cc/C5FLSGTy/r-logo.png" />
-<img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
-<img align="left" alt="Google Analytics" width="26px" src="https://i.postimg.cc/sXPDknL9/ga-logo2.png" />
-<img align="left" alt="Microsoft Power BI" width="26px" src="https://ellipsesolutions.com/wp-content/uploads/2017/01/PowerBI-Logo.png" />
-<img align="left" alt="Microsoft Azure Machine Learning" width="30px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Microsoft Office" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/864px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" />
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
