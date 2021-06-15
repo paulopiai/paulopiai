@@ -17,7 +17,9 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
 
 
-## Languagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)
+## Languagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)<br><br>
+
+
 <img align="left" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"/>
 
 
