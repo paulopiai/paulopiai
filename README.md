@@ -33,7 +33,7 @@
 <br><br><br><br>
 
 <!-- Outros -->
-<img align="left" alt="SQL" width="150px" src="http://rberaldo.com.br/wp-content/uploads/2011/02/sql-icon.jpg"/>
+<img align="left" alt="SQL" width="100px" src="http://rberaldo.com.br/wp-content/uploads/2011/02/sql-icon.jpg"/>
 <br><br>
 
 
