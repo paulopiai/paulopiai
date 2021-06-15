@@ -26,7 +26,7 @@
 <img align="left" alt="Numpy" width="110px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr0kYCmqg-rel951vTDzxFO1AGNqWuRdivay0YTm24puJHicWgiLs1s0jQOKjnRRGsXw&usqp=CAU" />
 <img align="left" alt="Seaborn" width="60px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
 <img align="left" alt="Plotly" width="130px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />
-<br><br><br><br>
+<br><br><br>
 
 <!-- R -->
 <img align="left" alt="R" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>
