@@ -19,7 +19,7 @@
 
 ## Languagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)<br>
 
-<img align="left" alt="Python" width="70px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-4.png"/>
+<img align="left" alt="Python" width="50px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-4.png"/>
 <img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
 <img align="left" alt="Matplotlib" width="110px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
 <img align="left" alt="Scikit-Learn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
