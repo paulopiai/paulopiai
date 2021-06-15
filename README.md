@@ -13,7 +13,8 @@
 
 ## Linguagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)<br>
 <!-- Python -->
-<img align="left" alt="Python" width="0.1px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-4.png"/>
+<img align="left" alt="pgwhite" width="0.1px" src="https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2-768x450.jpg"/>
+<img align="left" alt="Python" width="60px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-4.png"/>
 <img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
 <img align="left" alt="Matplotlib" width="110px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
 <img align="left" alt="Scikit-Learn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
