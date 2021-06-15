@@ -20,6 +20,10 @@
 ## Languagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)<br>
 
 <img align="left" alt="Python" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"/>
+<img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
+<img align="left" alt="Matplotlib" width="150px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
+<img align="left" alt="Scikit-Learn" width="70px" src="https://i.postimg.cc/QNbdSy1j/SCIKITLEARN-LOGO.png" />
+<img align="left" alt="Numpy" width="150px" src="https://miro.medium.com/max/765/0*p0FtnloWd4ogMvTQ.png" />
 
 
 
