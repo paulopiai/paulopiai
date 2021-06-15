@@ -32,7 +32,7 @@
 <img align="left" alt="Apache Spark" width="70px" src="https://i.postimg.cc/9FQFkYYZ/spark-logo.png" />
 <img align="left" alt="SQL" width="50px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
 <img align="left" alt="Microsoft Azure Machine Learning" width="50px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Matplotlib" width="100px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
+<img align="left" alt="Matplotlib" width="200px" src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" />
 
 
 <br><br>
