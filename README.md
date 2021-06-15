@@ -24,9 +24,9 @@
 </details>
 
 ## Languagens e Ferramentas:
-<img 	src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img 	src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img 	src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img 	align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img 	align="left" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img 	align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img 	/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 
