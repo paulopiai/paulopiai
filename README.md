@@ -11,7 +11,7 @@
 - ⚡ Hobbies: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
 
 
-## Linguagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)<br>
+## Linguagens, Bibliotecas e Ferramentas:<br>
 <!-- Python -->
 <img align="left" alt="pgwhite" width="0.1px" src="https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2-768x450.jpg"/>
 <img align="left" alt="Python" width="60px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-4.png"/>
