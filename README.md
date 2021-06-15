@@ -40,7 +40,7 @@
 <img align="left" alt="office" width="100px" src="http://s2.glbimg.com/UO9Dh51JSdXM9YgQwOulYAcK6Sw=/0x0:694x391/695x392/s.glbimg.com/po/tt2/f/original/2014/10/29/office1.jpg"/>
 <img align="left" alt="azure" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpOMrHMWZ4KypGUXyPzB5thUQmBrF_Nf6rlg_Xa9cKFSwPT2PZkXW3kMbtEwuhPPr7i8&usqp=CAU"/>
 <img align="left" alt="Spark" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>
-<img align="left" alt="hadoop" width="80px" src="https://miro.medium.com/max/2760/1*9yRCS0_kaT2ZM_A9akVRiQ.png"/>
+<img align="left" alt="hadoop" width="150px" src="https://miro.medium.com/max/2760/1*9yRCS0_kaT2ZM_A9akVRiQ.png"/>
 
 
 <br><br><br><br>
