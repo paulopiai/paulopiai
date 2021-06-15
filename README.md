@@ -40,7 +40,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
 
 
-<br><br><br>
+<br>
 ## Github Status:<br>
 <!-- Github status -->
 <details>
