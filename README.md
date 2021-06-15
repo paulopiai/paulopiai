@@ -37,7 +37,7 @@
 <img align="left" alt="readr" width="60px" src="https://rstudio-education.github.io/datascience-box/course-materials/slides/u2-d12-data-import/img/readr.png"/>
 <img align="left" alt="tidyverse" width="60px" src="https://www.tidyverse.org/images/hex-tidyverse.png"/>
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 
 ## Github Status:<br>
