@@ -3,13 +3,13 @@
 [![WhatsApp][whatsapp-shield]][whatsapp-url]
 <a href="mailto:unieppiai@gmail.com?subject=Vindo%20do%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-
+<br><br>
 ## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
 - 📚 Vivendo em <em>learning mode</em>.
 - 🥅 Objetivos 2021: Continuar os estudos para maiores contribuições em projetos de Ciência e Analise de Dados.
 - ⚡ Hobbies: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
 
-
+<br><br>
 ## Linguagens, Bibliotecas e Ferramentas: (🔨 Em contrução! 🔨)<br>
 <!-- Python -->
 <img align="left" alt="Python" width="50px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-4.png"/>
@@ -33,13 +33,14 @@
 
 <!-- Outros -->
 <img align="left" alt="SQL" width="150px" src="http://rberaldo.com.br/wp-content/uploads/2011/02/sql-icon.jpg"/>
-<br><br><br>
 
+
+<br><br><br>
 ## Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
 
 
-
+<br><br><br>
 ## Github Status:<br>
 <!-- Github status -->
 <details>
