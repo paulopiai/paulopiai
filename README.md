@@ -3,14 +3,12 @@
 [![WhatsApp][whatsapp-shield]][whatsapp-url]
 <a href="mailto:unieppiai@gmail.com?subject=Vindo%20do%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.linkedin.com/in/paulopiai/)
-<br>
 
 
 ## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
 - 📚 Vivendo em <em>learning mode</em>.
 - 🥅 **Objetivos 2021**: Continuar os estudos para maiores contribuições em projetos de Ciência e Analise de Dados.
 - ⚡ **Hobbies**: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
-<br>
 
 
 ## Linguagens, Bibliotecas e Ferramentas:<br>
@@ -49,7 +47,6 @@
 <img align="left" alt="Spark" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>
 <img align="left" alt="hadoop" width="150px" src="https://miro.medium.com/max/2760/1*9yRCS0_kaT2ZM_A9akVRiQ.png"/>
 -->
-<br>
 
 
 ## Spotify Playing 🎧
