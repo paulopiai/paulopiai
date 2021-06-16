@@ -10,6 +10,7 @@
 - 📚 Vivendo em <em>learning mode</em>.
 - 🥅 **Objetivos 2021**: Continuar os estudos para maiores contribuições em projetos de Ciência e Analise de Dados.
 - ⚡ **Hobbies**: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
+<br>
 
 
 ## Linguagens, Bibliotecas e Ferramentas:<br>
@@ -48,7 +49,7 @@
 <img align="left" alt="Spark" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>
 <img align="left" alt="hadoop" width="150px" src="https://miro.medium.com/max/2760/1*9yRCS0_kaT2ZM_A9akVRiQ.png"/>
 -->
-<br><br>
+<br>
 
 
 ## Spotify Playing 🎧
