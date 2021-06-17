@@ -72,7 +72,7 @@
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopiai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paulopiai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
