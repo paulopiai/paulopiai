@@ -68,8 +68,9 @@
 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopiai)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopiai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopiai)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopiai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paulopiai)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
