@@ -3,9 +3,9 @@
 [![WhatsApp][whatsapp-shield]][whatsapp-url]
 <a href="mailto:unieppiai@gmail.com?subject=Vindo%20do%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.linkedin.com/in/paulopiai/)
+![](https://komarev.com/ghpvc/?username=paulopiai)
 
-
-## Eu sou um Engeheiro Eletricista, Cientista de Dados e Analista de Dados!
+## Eu sou Engenheiro Eletricista, Cientista de Dados e Analista de Dados!
 - 📚 Vivendo em <em>learning mode</em>.
 - 🥅 **Objetivos 2021**: Continuar os estudos para maiores contribuições em projetos de Ciência e Analise de Dados.
 - ⚡ **Hobbies**: Adoro curtir o tempo vago com esposa e filho, apaixonado por natação e video-game!
