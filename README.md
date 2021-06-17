@@ -3,7 +3,6 @@
 [![WhatsApp][whatsapp-shield]][whatsapp-url]
 <a href="mailto:unieppiai@gmail.com?subject=Vindo%20do%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.linkedin.com/in/paulopiai/)
-![Profile views](https://komarev.com/ghpvc/?username=paulopiai&style=flat-square)
 
 
 ## Eu sou Engenheiro Eletricista, Cientista de Dados e Analista de Dados!
@@ -50,11 +49,13 @@
 -->
 
 
-## Spotify Playing 🎧
+## 🎧 Spotify Playing
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
 
 
-## Estatísticas Github:<br>
+## 📊 Estatísticas Github<br>
+![Profile views](https://komarev.com/ghpvc/?username=paulopiai&style=flat-square)
+
 <!-- Github status -->
 <details>
   
