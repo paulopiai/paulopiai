@@ -49,11 +49,11 @@
 -->
 
 
-## 🎧 Spotify Playing
+## Spotify Playing 🎧 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paulopiai Spotify Playing" width="350" />](https://open.spotify.com/user/paulopiai?si=DbkPgMh9QgSUWfPorQOobw&utm_source=native-share-menu&dl_branch=1)
 
 
-## 📊 Estatísticas Github<br>
+## Estatísticas Github 📊<br>
 ![Profile views](https://komarev.com/ghpvc/?username=paulopiai&style=flat-square)
 
 <!-- Github status -->
@@ -65,6 +65,10 @@
   
 </details>
 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopiai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
