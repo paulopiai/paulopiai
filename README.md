@@ -15,7 +15,8 @@
 <!-- Imagens -->
 ![image](tools.PNG)
 
-<!-- Python 
+
+<!-- Python -->
 <img align="left" alt="pgwhite" width="0.1px" src="https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2-768x450.jpg"/>
 <img align="left" alt="Python" width="60px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-4.png"/>
 <img align="left" alt="Pandas" width="60px" src="https://i.postimg.cc/wvYjbKwj/pandas-logo.png" />
@@ -25,9 +26,9 @@
 <img align="left" alt="Seaborn" width="60px" src="https://i.postimg.cc/2898NL0J/seaborn-logo.png" />
 <img align="left" alt="Plotly" width="130px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />
 <br><br><br>
--->
 
-<!-- R 
+
+<!-- R -->
 <img align="left" alt="pgwhite" width="0.1px" src="https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2-768x450.jpg"/>
 <img align="left" alt="R" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>
 <img align="left" alt="ggplot2" width="60px" src="https://beatrizmilz.github.io/NerdzaoWeek/img/rlogos/hex-ggplot2.png"/>
@@ -37,16 +38,17 @@
 <img align="left" alt="readr" width="60px" src="https://rstudio-education.github.io/datascience-box/course-materials/slides/u2-d12-data-import/img/readr.png"/>
 <img align="left" alt="tidyverse" width="60px" src="https://www.tidyverse.org/images/hex-tidyverse.png"/>
 <br><br><br><br>
--->
 
-<!-- Outros 
+
+<!-- Outros -->
 <img align="left" alt="pgwhite" width="0.1px" src="https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2-768x450.jpg"/>
 <img align="left" alt="SQL" width="100px" src="http://rberaldo.com.br/wp-content/uploads/2011/02/sql-icon.jpg"/>
+<img align="left" alt="Linux" width="100px" src="https://i.pinimg.com/originals/cb/bf/f3/cbbff3649adc9c2fda291b35dcfdaf14.jpg"/>
 <img align="left" alt="office" width="100px" src="http://s2.glbimg.com/UO9Dh51JSdXM9YgQwOulYAcK6Sw=/0x0:694x391/695x392/s.glbimg.com/po/tt2/f/original/2014/10/29/office1.jpg"/>
 <img align="left" alt="azure" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpOMrHMWZ4KypGUXyPzB5thUQmBrF_Nf6rlg_Xa9cKFSwPT2PZkXW3kMbtEwuhPPr7i8&usqp=CAU"/>
 <img align="left" alt="Spark" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>
 <img align="left" alt="hadoop" width="150px" src="https://miro.medium.com/max/2760/1*9yRCS0_kaT2ZM_A9akVRiQ.png"/>
--->
+
 
 
 ## Spotify Playing 🎧 
