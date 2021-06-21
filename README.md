@@ -13,7 +13,7 @@
 
 ## Linguagens, Bibliotecas e Ferramentas:<br>
 <!-- Imagens -->
-![image](tools.PNG)
+![image](tools.JPG)
 
 
 <!-- Python
