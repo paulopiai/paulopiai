@@ -37,7 +37,7 @@
 <img align="left" alt="tidyr" width="60px" src="https://www.dadosaleatorios.com.br/post/introducao-ao-tidyr/featured_hue6901f54027701dd92eb7bcc36d0c7d0_34350_720x0_resize_lanczos_2.png"/>
 <img align="left" alt="readr" width="60px" src="https://rstudio-education.github.io/datascience-box/course-materials/slides/u2-d12-data-import/img/readr.png"/>
 <img align="left" alt="tidyverse" width="60px" src="https://www.tidyverse.org/images/hex-tidyverse.png"/>
-<img align="left" alt="Docker" width="60px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png"/>
+<img align="left" alt="Docker" width="150px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png"/>
 <br><br><br><br>
 
 
